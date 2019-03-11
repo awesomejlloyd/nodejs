@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "uuid": "^3.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomejlloyd/nodejs.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/awesomejlloyd/nodejs/issues"
+  },
+  "homepage": "https://github.com/awesomejlloyd/nodejs#readme"
 }
